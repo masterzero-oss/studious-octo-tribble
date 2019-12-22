@@ -2,7 +2,7 @@
 #this script is created by Zero for debian 9
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 MYIP=$(wget -qO- ipv4.icanhazip.com)
-dbhost='server161.web-hosting.com';
+dbhost='104.219.248.111';
 dbuser='zerosmvd_zero123';
 dbpass='Raprap18';
 dbname='zerosmvd_yellowpanel';

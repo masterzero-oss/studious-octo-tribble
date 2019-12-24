@@ -5,10 +5,10 @@
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #change this according to your database details
 #Note: Password w/ Special Characters are not allowed.
-dbhost='server161.web-hosting.com';
-dbuser='zerosmvd_raprap';
-dbpass='Raprap18';
-dbname='zerosmvd_installer';
+dbhost='31.22.4.50';
+dbuser='zerovpns_zero123';
+dbpass='imongmama';
+dbname='zerovpns_mypanel';
 dbport='3306';
 
 
